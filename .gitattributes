@@ -1,0 +1,7 @@
+* text=auto
+*.swift text eol=lf
+*.js text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.webp binary
+*.icns binary
